@@ -24,3 +24,8 @@ It can Automate Tasks with just One Voice Command.
 
 It is a Desktop Based AI Assistant.
 
+
+
+
+// run the python file on anaconda prompt 
+
